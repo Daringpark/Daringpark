@@ -5,7 +5,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaringpark&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
-
 ---
 
 ### 📚 Education
@@ -26,10 +25,23 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![JavaScript](https://camo.githubusercontent.com/dd516cfceafbb9d455ee1361d6d232ec0b097ccc5a255017435a3d95a48e37fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765)
-![TailWindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://camo.githubusercontent.com/d2cf1816361c42c41216ca8c797522540a16f407298b78f4304efb0c6eab5d27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3631444146423f6c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765)
+![VueJS](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TailWindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+
+![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![GPTAPI](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 
+![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![EC2](https://camo.githubusercontent.com/511093b84f0c9df27495a58c480204165764127617cc6d9f819c87f6098ea988/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4543322d4646393930303f6c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)
 ![Docker](https://camo.githubusercontent.com/43203d3525fb4c1c69d55340c0546bd13de483a760b82cf2f7c80c650ba4f075/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3234393645443f6c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)
 
