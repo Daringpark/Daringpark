@@ -52,19 +52,6 @@
 ![Figma](https://camo.githubusercontent.com/42d7d1942ba2ec308a022cec8175d91dec05f4845ab0c8b2c51e270ae359042b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4669676d612d4632344531453f6c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)
 
 ---
-
-### 📊 PS skill
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daringpark)](https://github.com/anuraghazra/github-readme-stats)
-
-**백준 프로필**
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=shoostar0611)](https://solved.ac/shoostar0611)
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shoostar0611)](https://solved.ac/shoostar0611)
-
----
 ### Machine Learning PJT
 
 - 아파트루
@@ -78,6 +65,19 @@
 - 산불 확산 이미지 예측 모델 구축
     - 기후, 지형 정보, 산불 이미지를 입력, U-LSTM을 활용한 예측 이미지 모델 구축
     - F1-Score 0.61에서 0.89로 약 45% 정확도 증가
+---
+
+### 📊 PS skill
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daringpark)](https://github.com/anuraghazra/github-readme-stats)
+
+**백준 프로필**
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=shoostar0611)](https://solved.ac/shoostar0611)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shoostar0611)](https://solved.ac/shoostar0611)
+
 ---
 
 
