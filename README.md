@@ -4,10 +4,11 @@
 
 ---
 
-### 📚 Education
+### 📚 Education & Internship
 
+- (주)Paymentinapp, Logistics as a Service AI 연구원 :: 2025.01 ~
 - 삼성청년소프트웨어아카데미(이하 SSAFY) 11기 :: 2024.01 ~ 2024.12
-- 현미경 소재 반도체 공정 스타트업 K-TIP 반도체 공정 과정 및 공정 환경 최적화 :: 2023.08 ~ 2023.12 
+- 현미경 소재 반도체 공정 스타트업 "K-TIP", 반도체 공정 과정 및 공정 환경 최적화 :: 2023.08 ~ 2023.12 
 - 전북대학교 물리학과 이학사 및 IAB융합학과 융합학사 졸업 :: 2016.03 ~ 2024.02 / 2022.03 ~ 2024.02
 - IBS뇌과학이미징연구단 SUMMERCAMP COCOAN LAB INTERNSHIP :: 2022.06 ~ 2022.07
 - KAPLAN INTERNATIONAL SCHOOL BOSTON :: 2017.05 ~ 2018.04
@@ -17,11 +18,13 @@
 ### 💻 ProJect History
 
 - 아파트루
-    - 아파트 CCTV 신청인 외 마스킹 영상 처리
+    - 아파트 CCTV 신청인 외 마스킹 영상 처리 (객체 탐지 모델 YOLO V11, 가우시안 블러 적용)
 - 캐운(ChaUn)
-    - 체형 정보 및 운동 시계열 데이터를 활용한 체중 예측 시스템 구축
+    - 체형 정보 및 운동 시계열 데이터를 활용한 체중 예측 LSTM 모델 구축
+    - FastAPI BE 개발 및 예측값을 MongoDB(NOSQL)를 통해 DB 관리
 - 로드 가디언즈
     - On-Device AI 장착한 무인 자동차로 도로 상태를 보수 관리하는 통합 관리 시스템
+    - YOLO v8을 이용한 객체 탐지, Edge2Web HTTP 통신 구현, React.js FrontEnd SPA 개발 
 - FliXquare
     - 영화 리뷰 커뮤니티 및 GPT API 활용 영화 추천 플랫폼
 - 산불 확산 이미지 예측 모델 구축
