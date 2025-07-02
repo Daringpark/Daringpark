@@ -1,12 +1,26 @@
-# 프로필 (Mincheol, Park)
-기술로 다양한 경험을 선보이고 싶은 개발자, 박민철입니다.
+<div align="center">
+    <img height="360" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&text=성장하는%20AI%20개발자%20박민철입니다.&fontSize=40&fontAlignY=45&fontColor=FFFFFF">
+</div>
 
+### 🏃 About me
+- 현장에서 활용할 수 있는 데이터를 분석하고, 알고리즘과 AI로 다양한 솔루션을 제공하고 싶습니다. 
+- 개발과정에서 항상 사용자의 경험을 생각합니다.
+- AI 동향을 꾸준하게 팔로우업하고 스스로 어떤 서비스를 구축할 수 있을지 고민합니다.
+
+### 📞 Contact
+
+<a href="mailto:shoostar0611@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</a>
+<a href="https://daringpark.tistory.com" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logoColor=white" height="25" alt="Tistory badge" />
+</a>
 
 ---
 
 ### 📚 Education & Internship
 
-- (주)Paymentinapp, Logistics as a Service AI 연구원 :: 2025.01 ~
+- (주)Paymentinapp, 물류 서비스팀 AI 연구원 :: 2025.01 ~ 2025.07
 - 삼성청년소프트웨어아카데미(이하 SSAFY) 11기 :: 2024.01 ~ 2024.12
 - 현미경 소재 반도체 공정 스타트업 "K-TIP", 반도체 공정 과정 및 공정 환경 최적화 :: 2023.08 ~ 2023.12 
 - 전북대학교 물리학과 이학사 및 IAB융합학과 융합학사 졸업 :: 2016.03 ~ 2024.02 / 2022.03 ~ 2024.02
@@ -15,10 +29,11 @@
 
 ---
 
-### 💻 ProJect History
+### 💻 Project History
 
 - 아파트루
     - 아파트 CCTV 신청인 외 마스킹 영상 처리 (객체 탐지 모델 YOLO V11, 가우시안 블러 적용)
+    - 클라우드 백엔드 FastAPI 구축 (Uvicorn 멀티 프로세서), 클라이언트 요청 처리시간 40% 감소
 - 캐운(ChaUn)
     - 체형 정보 및 운동 시계열 데이터를 활용한 체중 예측 LSTM 모델 구축
     - FastAPI BE 개발 및 예측값을 MongoDB(NOSQL)를 통해 DB 관리
@@ -42,60 +57,52 @@
 
 ### 📄 Certificate
 
-- 준비중,,,
+- 취득 중...
 
 ---
 
 ### 🛠 Tech Stack
 
-![Python](https://camo.githubusercontent.com/1948fa4382c8e55b58859cd571d3a3f07e325fa92da2590a68a90fe30b140684/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3337373641423f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)
-![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![MySQL](https://camo.githubusercontent.com/c0977fc878608a00d21234f8dbeb241a56308a4cd0b6bebaee7ff326057fa3cd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3434373941313f6c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+#### 📌 BackEnd & Data
+| Python | FastAPI | Django | Numpy | Pandas |
+|--------|---------|--------|--------|--------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) | ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) | ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) |
 
-**FrontEnd**
-![JavaScript](https://camo.githubusercontent.com/dd516cfceafbb9d455ee1361d6d232ec0b097ccc5a255017435a3d95a48e37fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765)
-![React.js](https://camo.githubusercontent.com/d2cf1816361c42c41216ca8c797522540a16f407298b78f4304efb0c6eab5d27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3631444146423f6c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765)
-![VueJS](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TailWindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+#### 🗃️ Databases
+| MySQL | MongoDB |
+|-------|---------|
+| ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
 
-**Simulation & Game Dev**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black)
+#### 🎨 FrontEnd
+| JavaScript | React | VueJS | TailwindCSS |
+|------------|--------|--------|-------------|
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge) | ![VueJS](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 
-**AI Frameworks & AI Tools**
-![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![GPTAPI](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+#### 🎮 Simulation & Game Dev
+| C# | Unity |
+|----|--------|
+| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black) |
 
-**Deploy & Amazon Web Service**
-![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![EC2](https://camo.githubusercontent.com/511093b84f0c9df27495a58c480204165764127617cc6d9f819c87f6098ea988/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4543322d4646393930303f6c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)
-![Docker](https://camo.githubusercontent.com/43203d3525fb4c1c69d55340c0546bd13de483a760b82cf2f7c80c650ba4f075/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3234393645443f6c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)
+#### 🤖 AI Frameworks & Tools
+| Conda | TensorFlow | Keras | PyTorch | OpenCV | ChatGPT | HuggingFace |
+|-------|-------------|--------|---------|--------|---------|-------------|
+| ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black) |
 
-**GIT & Tools**
-![GIT](https://camo.githubusercontent.com/f72b0a218a63aee2ca6dfffa38ab3b2cc9615581ec8b706d399a1d83b2b22708/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f6c6f676f3d676974266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)
-![GitHub](https://camo.githubusercontent.com/5d52eeadece1cbd5230e35bd7027a0ece793bfceddb355471be38da0849f3247/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f6c6f676f3d676974687562266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)
-![Jira](https://camo.githubusercontent.com/0b249b8c86d182b02e26f261cb8ea408bf6dca2d4a5e7113136a5301c817cbce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6972612d3030353243433f6c6f676f3d6a697261266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)
-![Figma](https://camo.githubusercontent.com/42d7d1942ba2ec308a022cec8175d91dec05f4845ab0c8b2c51e270ae359042b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4669676d612d4632344531453f6c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)
-![Notion](https://camo.githubusercontent.com/517dbd5ec686b8c259b627b44addaa5e9f385485aa8ddac127bf3b7b2c016026/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f74696f6e2d3030303030303f6c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)
+#### ☁️ Deploy & Cloud
+| Postman | EC2 | S3 | Docker |
+|---------|-----|----|--------|
+| ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) | ![EC2](https://img.shields.io/badge/-EC2-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge) | ![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) |
+
+#### 🔧 GIT & Tools
+| Git | GitHub | Jira | Figma | Notion |
+|-----|--------|------|--------|--------|
+| ![GIT](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge) | ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge) | ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=for-the-badge) |
 
 ---
 
-### 📊 PS skill
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shoostar0611)](https://solved.ac/shoostar0611)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daringpark)](https://github.com/anuraghazra/github-readme-stats)
-
-**백준**
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shoostar0611)](https://solved.ac/shoostar0611)
+[![DaringPark's GitHub stats](https://github-readme-stats.vercel.app/api?username=daringpark&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
