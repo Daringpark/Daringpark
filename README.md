@@ -42,9 +42,12 @@
     - YOLO v8을 이용한 객체 탐지, Edge2Web HTTP 통신 구현, React.js FrontEnd SPA 개발 
 - FliXquare
     - 영화 리뷰 커뮤니티 및 GPT API 활용 영화 추천 플랫폼
+    - Vue.js 활용 및 Django REST Framework 활용
+    - OPEN AI API 활용, 간단한 프롬프트 엔지니어링으로 영화 추천
 - 산불 확산 이미지 예측 모델 구축
     - 기후, 지형 정보, 산불 이미지를 입력, U-LSTM을 활용한 예측 이미지 모델 구축
-    - F1-Score 0.61에서 0.89로 약 45% 정확도 증가
+    - 모델 구조 단순화, 데이터 증강, 학습 조기 종료 적용으로 모델 정확도 향상
+    - 초기 모델 Accuracy, F1-Score 0.7, 0.61에서 0.9, 0.85로 약 29%, 40% 지표 향상
 
 ---
 
